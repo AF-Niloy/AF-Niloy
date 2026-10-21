@@ -84,19 +84,6 @@ My interests span electronic circuit design, semiconductor devices, VLSI, embedd
   </tr>
 </table>
 
-## Selected Academic Projects
-
-### Dual-Mode Swarm Robot System for Post-Disaster Surveillance and Accurate Weather Monitoring in Bangladesh
-An academic design project exploring a dual-mode swarm-robot concept for post-disaster area surveillance and localized weather monitoring.
-
-**Focus areas:** Robotics · Embedded Systems · Sensors · Wireless Communication
-
-### Smart Irrigation System
-An engineering project concept focused on automating irrigation using real-time soil-moisture measurements to support more efficient water use.
-
-**Focus areas:** Sensors · Microcontrollers · Automation · IoT
-
-> Project descriptions are concise summaries. Add the corresponding repository links, implementation details, photos, and measured results as the project documentation becomes available.
 
 ## Research Interests
 
